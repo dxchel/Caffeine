@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "David Xchel Morales Hurtado",
+                "Email": "davidxchelmh@gmail.com"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Keep your system awake with one click. Prevents sleep, screen locking, and the screensaver from kicking in.",
+        "Icon": "/icons/caffeine.svg",
+        "Id": "org.kde.caffeine",
+        "License": "GPL-3.0+",
+        "Name": "Caffeine",
+        "Version": "MIT"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
