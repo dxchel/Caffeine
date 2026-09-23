@@ -43,8 +43,8 @@ kpackagetool6 --type Plasma/Applet --install com.github.dxchel.caffeine
 
 1. Add the widget to your panel: Right-click panel → **Add Widgets** → **Caffeine**
 2. Click the coffee cup icon to toggle:
-   - **Colored cup** = Active (system kept awake)
-   - **Dimmed cup** = Inactive (normal sleep behavior)
+   - ![Active cup](https://github.com/dxchel/Caffeine/blob/main/contents/icons/caffeine.svg) = Active (system kept awake)
+   - ![Inactive cup](https://github.com/dxchel/Caffeine/blob/main/contents/icons/caffeine_inactive.svg) = Inactive (normal sleep behavior)
 3. Hover for visual feedback, click to toggle
 
 ## How It Works
