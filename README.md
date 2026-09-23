@@ -2,6 +2,8 @@
 
 A Plasma 6 applet that keeps your system awake with one click. Prevents sleep, screen locking, and the screensaver from kicking in.
 
+Created because original Plasma5 applet doesn't work in Plasma6 and found no Plasma6 plasmoid
+
 ## Features
 
 - **One-click toggle** — Click the panel icon to enable/disable caffeine mode
