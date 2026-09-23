@@ -10,10 +10,11 @@
         "Category": "System Information",
         "Description": "Keep your system awake with one click. Prevents sleep, screen locking, and the screensaver from kicking in.",
         "Icon": "/icons/caffeine.svg",
-        "Id": "org.kde.caffeine",
-        "License": "GPL-3.0+",
+        "Id": "com.github.dxchel.caffeine",
+        "License": "MIT",
         "Name": "Caffeine",
-        "Version": "MIT"
+        "Version": "1.0.0",
+        "Website": "https://github.com/dxchel/com.github.dxchel.caffeine"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
 }

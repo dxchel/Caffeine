@@ -1,0 +1,19 @@
+# Plasma plasmoid build artifacts
+*.plasmoid
+*.zip
+*.tar.gz
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.orig
